@@ -18,7 +18,6 @@ require('package-name')
 ```
 
 so when should you install in one way or another?
-
 In general, **all packages should be installed locally**.
 
 This makes sure you can have dozens of applications in your computer, all running a different version of each package if needed.
